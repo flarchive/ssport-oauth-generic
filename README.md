@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of ssport/oauth-generic.** Not for installation: use [Packagist](https://packagist.org/packages/ssport/oauth-generic) or the [upstream repository](https://github.com/ssangyongsportsteam/flarum-ext-oauth-generic).
 
-**0** versions archived · Latest: [`1`](https://github.com/flarchive/ssport-oauth-generic/tree/archive/v1) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`1`](https://github.com/flarchive/ssport-oauth-generic/tree/archive/v1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1` | 2024-08-05 | `^1.2.0` | [Browse](https://github.com/flarchive/ssport-oauth-generic/tree/archive/v1) |
 
 Catalog entry: [packages/ssport-oauth-generic.json](https://github.com/flarchive/archive-index/blob/main/packages/ssport-oauth-generic.json)
 
